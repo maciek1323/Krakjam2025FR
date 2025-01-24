@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Krakjam2025FR/Krakjam25/Content/MenuWB.uasset",
+				"E:/Krakjam2025FR/Krakjam25/Content/Hud.uasset",
 				"C:/Users/SPC/Documents/GitHub/Krakjam2025FR/Krakjam25/Content/Blueprints/BP_PlatformingCharacter.uasset",
 				"C:/Users/SPC/Documents/GitHub/Krakjam2025FR/Krakjam25/Content/StarterMap.umap",
 				"C:/Users/SPC/Documents/GitHub/Krakjam2025FR/Krakjam25/Content/Blueprints/AnimBP_Warrior.uasset",
@@ -12,8 +14,7 @@
 				"C:/Users/SPC/Documents/GitHub/Krakjam2025FR/Krakjam25/Content/Tilemaps/middle_Sprite.uasset",
 				"C:/Users/SPC/Documents/GitHub/Krakjam2025FR/Krakjam25/Content/MainMenuMap.umap",
 				"C:/Users/SPC/Documents/GitHub/Krakjam2025FR/Krakjam25/Content/Input/Platformer_MappingContext.uasset",
-				"C:/Users/SPC/Documents/GitHub/Krakjam2025FR/Krakjam25/Content/NewMaterial.uasset",
-				"E:/Krakjam2025FR/Krakjam25/Content/MenuWB.uasset"
+				"C:/Users/SPC/Documents/GitHub/Krakjam2025FR/Krakjam25/Content/NewMaterial.uasset"
 			]
 		}
 	]
