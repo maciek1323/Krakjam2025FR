@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Krakjam2025FR/Krakjam25/Content/MenuWB.uasset",
+				"E:/Krakjam2025FR/Krakjam25/Content/Hud.uasset",
+				"E:/Krakjam2025FR/Krakjam25/Content/Blueprints/BP_PlatformingCharacter.uasset",
+				"E:/Krakjam2025FR/Krakjam25/Content/MenuGM.uasset",
+				"E:/Krakjam2025FR/Krakjam25/Content/MainMenuMap.umap",
+				"E:/Krakjam2025FR/Krakjam25/Content/GameScore.uasset",
 				"C:/Users/SPC/Documents/GitHub/Krakjam2025FR/Krakjam25/Content/Blueprints/BP_PlatformingCharacter.uasset",
 				"C:/Users/SPC/Documents/GitHub/Krakjam2025FR/Krakjam25/Content/StarterMap.umap",
 				"C:/Users/SPC/Documents/GitHub/Krakjam2025FR/Krakjam25/Content/Blueprints/AnimBP_Warrior.uasset",
@@ -91,12 +97,7 @@
 				"C:/Users/SPC/Documents/GitHub/Krakjam2025FR/Krakjam25/Content/Sprites/Textures/BG_NIGHT_WIP.uasset",
 				"C:/Users/SPC/Documents/GitHub/Krakjam2025FR/Krakjam25/Content/Sprites/Bubble_Map.uasset",
 				"C:/Users/SPC/Documents/GitHub/Krakjam2025FR/Krakjam25/Content/Blueprints/Bubbles/BubbleIntercal_Curve.uasset",
-				"C:/Users/SPC/Documents/GitHub/Krakjam2025FR/Krakjam25/Content/Blueprints/Bubbles/Bubble.uasset",
-				"E:/Krakjam2025FR/Krakjam25/Content/MenuWB.uasset",
-				"E:/Krakjam2025FR/Krakjam25/Content/Hud.uasset",
-				"E:/Krakjam2025FR/Krakjam25/Content/Blueprints/BP_PlatformingCharacter.uasset",
-				"E:/Krakjam2025FR/Krakjam25/Content/MenuGM.uasset",
-				"E:/Krakjam2025FR/Krakjam25/Content/MainMenuMap.umap"
+				"C:/Users/SPC/Documents/GitHub/Krakjam2025FR/Krakjam25/Content/Blueprints/Bubbles/Bubble.uasset"
 			]
 		}
 	]
